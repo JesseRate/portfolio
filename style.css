@@ -1,8 +1,9 @@
 .body {
     background-color: aqua;
+    margin: 0;
 }
 
 .header {
     background-color: red;
-
+    height: 20px;
 }
