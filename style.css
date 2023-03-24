@@ -21,20 +21,61 @@
 .aside {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: start;
+    align-items: center;
     background-color: #49c61d;
+
     height: 1807px;
     width: 620px;
 }
 
 .image1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     background-color: #c1baff;
+    border-style: solid;
+    color: #1a00ff;
+    margin-top: 40px;
     height: 450px;
     width: 450px;
 }
 
+.container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 80px 0 0;
+    font-size: 2.5em;
+    font-weight: 450;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1a00ff;
+    height: 57.85px;
+    width: 367.92px;
+    background-color: #49c61d;
+}
+
 .foot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: #1a00ff;
     height: 654.45px;
     width: 1728px;
+    color: white;
+}
+
+h2 {
+    font-size: 42pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 60pt 0 0 0;
+}
+
+#foot {
+    height: 410pt;
+    width: 1100pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 29pt;
+    margin: 70pt 0 0 0;
 }
