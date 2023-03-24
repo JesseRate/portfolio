@@ -19,9 +19,18 @@
 }
 
 .aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     background-color: #49c61d;
     height: 1807px;
     width: 620px;
+}
+
+.image1 {
+    background-color: #c1baff;
+    height: 450px;
+    width: 450px;
 }
 
 .foot {
