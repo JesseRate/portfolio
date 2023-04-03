@@ -13,6 +13,10 @@
     width: 1728px;
 }
 .main {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
     background-color: black;
     height: 1807px;
     width: 1098px;
