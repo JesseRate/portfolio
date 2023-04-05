@@ -75,7 +75,7 @@
     flex-direction: column;
     align-items: center;
     background-color: #1a00ff;
-    height: 654.45px;
+    height: 754.45px;
     width: 1728px;
     color: white;
 }
@@ -98,6 +98,7 @@ h2 {
 .nail {
     width: 1698.25px;
     height: 71.34px;
+    margin: 100px 0 50px 0 ;
 }
 
 .container3 {
@@ -105,12 +106,23 @@ h2 {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin: 0 0 13.5px 100px  ;
+    margin: 0 0 0 100px  ;
     font-size: 2.5em;
     font-weight: 450;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     height: 57.85px;
-    width: 189.92px;
+    width: 209.99px;
     background-color: #1a00ff;
+}
+
+.copyright {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+    color: #1a00ff50 ;
+    width: 1698.25px;
 }
