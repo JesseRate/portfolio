@@ -5,7 +5,17 @@
     margin: 0;
 }
 
-.container1 {
+.nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+    width: 1728px;
+    height: 255px;
+    background-color: #49c61d;
+}
+
+.nav-bar {
     display: flex;
     justify-content:space-between;
     flex-direction: row;
@@ -13,7 +23,67 @@
     width: 1728px;
 }
 
-.container2 {
+.link-about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 80px 0 0;
+    font-size: 2.5em;
+    font-weight: 450;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1a00ff;
+    height: 57.85px;
+    width: 252.92px;
+    background-color: #49c61d;
+}
+
+.link-disciplines {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 80px 0 0;
+    font-size: 2.5em;
+    font-weight: 450;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1a00ff;
+    height: 57.85px;
+    width: 338.92px;
+    background-color: #49c61d;
+}
+
+.link-strategy {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 80px 0 0;
+    font-size: 2.5em;
+    font-weight: 450;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1a00ff;
+    height: 57.85px;
+    width: 296px;
+    background-color: #49c61d;
+}
+
+.link-gallery {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 80px 0 0;
+    font-size: 2.5em;
+    font-weight: 450;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1a00ff;
+    height: 57.85px;
+    width: 367.92px;
+    background-color: #49c61d;
+}
+
+.link-rate {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -59,7 +129,7 @@ h2 {
     margin: 100px 0 50px 0 ;
 }
 
-.container3 {
+.link-home {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -125,7 +195,7 @@ h2 {
     height: 200%;
   }
 
-  .designer {
+  .icon {
     height: 100%;
     width: 100%;
   }
