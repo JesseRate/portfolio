@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: space-between;
     width: 1728px;
-    height: 200px;
+    height: 205px;
     background-color: #49c61d;
 }
 
@@ -267,7 +267,7 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin: 10px 0px;
+    margin: 5px 0px;
     width: 1728px;
     height: 1030px;
   }
@@ -310,7 +310,7 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #1a00ff;
     height: 57.85px;
-    width: 367.92px;
+    width: 332.92px;
     background-color: #49c61d;
 }
 
@@ -319,13 +319,13 @@ h2 {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 20px 80px 0 0;
+  margin: 20px 0px 0px 0px;
   font-size: 2.5em;
   font-weight: 450;
   font-family: Arial, Helvetica, sans-serif;
   color: #1a00ff;
   height: 57.85px;
-  width: 367.92px;
+  width: 353.92px;
   background-color: #49c61d;
 }
 
@@ -340,7 +340,7 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   color: #1a00ff;
   height: 57.85px;
-  width: 367.92px;
+  width: 332.92px;
   background-color: #49c61d;
 }
 
@@ -355,7 +355,7 @@ font-weight: 450;
 font-family: Arial, Helvetica, sans-serif;
 color: #1a00ff;
 height: 57.85px;
-width: 367.92px;
+width: 353.92px;
 background-color: #49c61d;
 }
 
@@ -365,7 +365,7 @@ background-color: #49c61d;
   justify-content: center;
   margin: 0px 0px 0px 0px;
   width: 1728px;
-    height: 55px;
+    height: 60px;
     margin: 0;
     background-color: #49c61d;
 }
@@ -383,7 +383,7 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   width: 1728px;
   height: 639px;
   background-color: #49c61d;
@@ -401,5 +401,80 @@ h3 {
   color: #1a00ff;
   height: 57.85px;
   width: 367.92px;
+  background-color: #49c61d;
+}
+
+.link-photography {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0px 0px 0px;
+  font-size: 2.5em;
+  font-weight: 450;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1a00ff;
+  height: 57.85px;
+  width: 332.92px;
+  background-color: #49c61d;
+}
+
+.link-teams {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0px 0px 0px;
+  font-size: 2.5em;
+  font-weight: 450;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1a00ff;
+  height: 57.85px;
+  width: 230.92px;
+  background-color: #49c61d;
+}
+
+.link-category {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0px 0px 0px;
+  font-size: 2.5em;
+  font-weight: 450;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1a00ff;
+  height: 57.85px;
+  width: 272.92px;
+  background-color: #49c61d;
+}
+
+.link-interface {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0px 0px 0px;
+  font-size: 2.5em;
+  font-weight: 450;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1a00ff;
+  height: 57.85px;
+  width: 265.92px;
+  background-color: #49c61d;
+}
+
+.link-painting {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0px 0px 0px;
+  font-size: 2.5em;
+  font-weight: 450;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1a00ff;
+  height: 57.85px;
+  width: 252.92px;
   background-color: #49c61d;
 }
